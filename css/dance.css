@@ -39,3 +39,26 @@ nav#horz ul li a:hover {
   background-color: #585858;
   color: 	
 }
+
+h2, p {
+  color: #E0E0E0;	
+}
+
+ol {
+  list-style-type: none;
+  font-size: 105%;	 
+  color: #D0D0D0;
+}
+
+#dancers {
+  width: 55%;
+  border-radius: 12px;	
+  border: 2px solid #ddd;
+  padding: 2px;
+}
+
+iframe {
+  margin-bottom: 20px;
+  width: 400px;	
+  height: 220px; 
+}
