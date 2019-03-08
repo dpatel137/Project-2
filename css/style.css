@@ -1,3 +1,10 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
 nav#horz ul {
   list-style-type: none;
   padding: 0;
