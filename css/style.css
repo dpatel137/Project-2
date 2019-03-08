@@ -1,0 +1,27 @@
+nav#horz ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;	
+}
+
+nav#horz ul li {
+  float: left;
+  margin: 0 15px;	
+}
+
+nav#horz ul li a {
+  display: block;
+  background-color: red;
+  color: green;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  width: 100px;
+  padding: 10px 0px 8px 0px;
+  border-radius: 4px;	
+}
+
+nav#horz ul li a:hover {
+  background-color: yellow;	
+}
