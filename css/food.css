@@ -6,10 +6,6 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
-h1 {
-  font-size: 6em;
-  color: 	#580000 ;
-}
 nav#horz ul {
   list-style-type: none;
   padding-top: 15px;
@@ -18,7 +14,7 @@ nav#horz ul {
 }
 
 nav#horz ul li {
-  float: left;
+  display: inline-table;
   margin: 0 15px;	
 }
 
@@ -28,7 +24,6 @@ nav#horz ul li a {
   color: white;
   font-weight: bold;
   text-decoration: none;
-  text-align: center;
   width: 100px;
   padding: 10px 0px 8px 0px;
   border-radius: 4px;	
@@ -37,4 +32,52 @@ nav#horz ul li a {
 nav#horz ul li a:hover {
   background-color: #585858;
   color: 	
+}
+
+h1 {
+  font-size: 6em;
+  color:#480000;
+}
+
+h2 {
+  color: #600000;  
+  font-weight: bold;	
+  margin-bottom: 30px;
+}
+
+.images {
+  width: 400px;
+	height: 240px;
+  float: left;
+  margin-left: 5px; 	
+}
+
+#japanpara {
+  margin-bottom: 250px;
+  padding-left: 415px;
+}
+
+#spainpara {
+  margin-bottom: 250px;	
+	padding-left: 421px;
+}
+
+#francepara {
+  margin-bottom: 250px;
+  padding-left: 420px;	
+}
+
+#mexicopara {
+  margin-bottom: 250px;
+  padding-left: 420px;	
+}
+
+#italypara {
+  padding-bottom: 200px;	
+	padding-left: 420px;
+}
+
+p {
+  position: relative;
+	color: #990033;
 }
