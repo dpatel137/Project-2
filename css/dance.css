@@ -11,6 +11,11 @@ h1 {
   font-size: 9em;
   color: #DCDCDC;
 }
+
+nav {
+  background-color: #000060;   
+}
+
 nav#horz ul {
   list-style-type: none;
   padding-top: 15px;
@@ -25,17 +30,17 @@ nav#horz ul li {
 
 nav#horz ul li a {
   display: block;
-  background-color: #303030;
+  background-color: #000060;
   color: white;
   font-weight: bold;
   text-decoration: none;
   width: 100px;
-  padding: 10px 0px 8px 0px;
+  padding: 10px 0px 30px 0px;
   border-radius: 4px;	
 }
 
 nav#horz ul li a:hover {
-  background-color: #585858;
+  background-color: #006699;
   color: 	
 }
 

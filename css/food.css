@@ -6,6 +6,11 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
+nav {
+  background-color: #660033;
+  
+}
+
 nav#horz ul {
   list-style-type: none;
   padding-top: 15px;
@@ -20,17 +25,17 @@ nav#horz ul li {
 
 nav#horz ul li a {
   display: block;
-  background-color: #303030;
+  background-color: #660033;
   color: white;
   font-weight: bold;
   text-decoration: none;
   width: 100px;
-  padding: 10px 0px 8px 0px;
+  padding: 10px 0px 30px 0px;
   border-radius: 4px;	
 }
 
 nav#horz ul li a:hover {
-  background-color: #585858;
+  background-color: #993333;
   color: 	
 }
 
