@@ -11,8 +11,7 @@
 }
 
 nav {
-  background-color: #686868;
-  
+  background-color: #686868; 
 }
 
 nav#horz ul {
@@ -39,8 +38,7 @@ nav#horz ul li a {
 }
 
 nav#horz ul li a:hover {
-  background-color: #585858;
-  color: 	
+  background-color: #585858; 	
 }
 
 p a {

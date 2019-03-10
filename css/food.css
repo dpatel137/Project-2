@@ -1,7 +1,7 @@
 body {
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   background: radial-gradient(#e66465, #9198e5);	
   font-family: 'Ubuntu', sans-serif;
 }
@@ -35,8 +35,7 @@ nav#horz ul li a {
 }
 
 nav#horz ul li a:hover {
-  background-color: #993333;
-  color: 	
+  background-color: #993333; 	
 }
 
 h1 {
@@ -52,7 +51,7 @@ h2 {
 
 .images {
   width: 400px;
-	height: 240px;
+  height: 240px;
   float: left;
   margin-left: 5px; 	
 }
@@ -64,7 +63,7 @@ h2 {
 
 #spainpara {
   margin-bottom: 250px;	
-	padding-left: 421px;
+  padding-left: 421px;
 }
 
 #francepara {
@@ -79,10 +78,10 @@ h2 {
 
 #italypara {
   padding-bottom: 200px;	
-	padding-left: 420px;
+  padding-left: 420px;
 }
 
 p {
   position: relative;
-	color: #990033;
+  color: #990033;
 }
