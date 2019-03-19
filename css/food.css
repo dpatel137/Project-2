@@ -6,6 +6,10 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 
+#onpage:visited {
+  background-color: #993333;	
+}
+
 nav {
   background-color: #660033;
   
