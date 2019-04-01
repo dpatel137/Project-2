@@ -57,32 +57,38 @@ h2 {
   width: 400px;
   height: 240px;
   float: left;
-  margin-left: 5px; 	
+  margin-left: 5px; 
+  position: relative;	
 }
 
 #japanpara {
   margin-bottom: 250px;
   padding-left: 415px;
+  position: relative;
 }
 
 #spainpara {
   margin-bottom: 250px;	
   padding-left: 421px;
+  position: relative;
 }
 
 #francepara {
   margin-bottom: 250px;
   padding-left: 420px;	
+  position: relative;
 }
 
 #mexicopara {
   margin-bottom: 250px;
   padding-left: 420px;	
+  position: relative;
 }
 
 #italypara {
   padding-bottom: 200px;	
   padding-left: 420px;
+  position: relative;
 }
 
 p {
