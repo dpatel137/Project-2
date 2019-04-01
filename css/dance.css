@@ -17,7 +17,8 @@ h1 {
 }
 
 nav {
-  background-color: #000060;   
+  background-color: #000060;
+  position: relative;	
 }
 
 nav#horz ul {
@@ -47,14 +48,26 @@ nav#horz ul li a:hover {
   background-color: #006699; 	
 }
 
-h2, p {
+h2 {
+  float: left;	
+  position: absolute;
+  color: #E0E0E0;
+  margin-left: 10px;	
+}
+
+p {
   color: #E0E0E0;	
+  float: left;
+  position: absolute;
+  margin-top: 55px;
+  margin-left: 10px;
 }
 
 ol {
   list-style-type: none;
   font-size: 105%;	 
   color: #D0D0D0;
+  position: relative;
 }
 
 #dancers {
@@ -62,10 +75,15 @@ ol {
   border-radius: 12px;	
   border: 2px solid #ddd;
   padding: 2px;
+  position: relative;
 }
 
 iframe {
-  margin-bottom: 20px;
+  margin: 200px 60px 20px 0;
   width: 400px;	
   height: 220px; 
+}
+
+#para_video {
+  margin: 160px 0 0 10px;	
 }

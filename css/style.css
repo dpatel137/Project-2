@@ -28,6 +28,7 @@ nav#horz ul {
 nav#horz ul li {
   display: inline-table;
   margin: 0 15px;	
+  position: relative;	
 }
 
 nav#horz ul li a {
