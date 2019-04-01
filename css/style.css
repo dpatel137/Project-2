@@ -5,6 +5,7 @@
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color: #383838;
+  position: relative;
 }
 
 #onpage:visited {
@@ -14,6 +15,7 @@
 
 nav {
   background-color: #686868; 
+  position: relative;
 }
 
 nav#horz ul {
@@ -54,4 +56,31 @@ p a:hover {
 
 ul {
   list-style-type: none;
+}
+
+#education {
+  float: left;
+  text-align: left;
+  position: relative;
+  margin-left: 10px;	
+}
+
+#skill {
+  float: right;
+  margin: 40px 10px 0 100px;	
+  text-align: right;
+	position: relative;
+}
+
+#work {
+  margin-top: 50px;
+  margin-left: 10px;
+  float: left;
+  text-align: left;	
+}
+
+#volunteer {
+  margin: 930px 10px 10px 0;	
+  padding-bottom: 10px;
+  text-align: right;  	
 }
